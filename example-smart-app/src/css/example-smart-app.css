@@ -39,7 +39,7 @@ body {
 }
 
 .jvion{
-  color: #610d5d;
+  color: #610d5d !important;
 }
 
 @-webkit-keyframes sk-bouncedelay {
